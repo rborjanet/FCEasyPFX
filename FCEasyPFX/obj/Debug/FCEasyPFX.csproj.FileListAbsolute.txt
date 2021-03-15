@@ -7,3 +7,4 @@ C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.cs
 C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.csproj.CoreCompileInputs.cache
 C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.exe
 C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.pdb
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.Main.resources
