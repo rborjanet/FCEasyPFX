@@ -1,0 +1,9 @@
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\bin\Debug\FCEasyPFX.exe.config
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\bin\Debug\FCEasyPFX.exe
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\bin\Debug\FCEasyPFX.pdb
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.csprojAssemblyReference.cache
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.Properties.Resources.resources
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.csproj.GenerateResource.cache
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.exe
+C:\Users\Chico\Source\Repos\rborjanet\FCEasyPFX\FCEasyPFX\obj\Debug\FCEasyPFX.pdb
