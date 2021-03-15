@@ -208,7 +208,7 @@ namespace FCEasyPFX
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Main";
-            this.Text = "Factura Center PFX 1.0.1";
+            this.Text = "Factura Center PFX 1.0.2";
             this.gpbCertificados.ResumeLayout(false);
             this.gpbCertificados.PerformLayout();
             this.gpbPFX.ResumeLayout(false);

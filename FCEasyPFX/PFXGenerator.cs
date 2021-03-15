@@ -14,7 +14,7 @@ namespace FCEasyPFX
     {
 
 
-            public void GeneratePFX(string certURL, string keyURL, string keyPassword, string pfxPassword)
+        public void GeneratePFX(string certURL, string keyURL, string keyPassword, string pfxPassword)
         {
 
 
@@ -23,9 +23,9 @@ namespace FCEasyPFX
             Process process3 = new Process();
 
 
-            string Command1 = Application.StartupPath + "\\openssl\\openssl.exe pkcs8 -inform der -in " + keyURL + " -passin pass:" + keyPassword + " -out key.pem";
-            string Command2 = Application.StartupPath + "\\openssl\\openssl.exe x509 -inform der -in "+certURL+" -out cer.pem";
-            string Command3 = Application.StartupPath + "\\openssl\\openssl.exe pkcs12 -export -in cer.pem -inkey key.pem -out temp.pfx -passout pass:" + pfxPassword;
+            string Command1 = (char)34 + "" +(char)34 + Application.StartupPath + "\\openssl\\openssl.exe" + (char)34 + " pkcs8 -inform der -in " + (char)34 + keyURL + (char)34+ " -passin pass:" + keyPassword + " -out key.pem"+ (char)34;
+            string Command2 = (char)34 + "" +(char)34 + Application.StartupPath + "\\openssl\\openssl.exe" + (char)34 + " x509 -inform der -in " + (char)34 + certURL + (char)34 +" -out cer.pem" + (char)34;
+            string Command3 = (char)34 + "" +(char)34 + Application.StartupPath + "\\openssl\\openssl.exe" + (char)34 + " pkcs12 -export -in cer.pem -inkey key.pem -out temp.pfx -passout pass:" + pfxPassword + (char)34;
 
 
             //First Process
